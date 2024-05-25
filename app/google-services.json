@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678642629286",
+    "project_id": "arvind-academy-feb3c",
+    "storage_bucket": "arvind-academy-feb3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678642629286:android:9956003345787a30e15267",
+        "android_client_info": {
+          "package_name": "com.arvind.arvindacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUR_AM10NmsfXY-xYuq-hkxJjnUsD3D6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

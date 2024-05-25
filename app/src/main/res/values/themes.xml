@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ArvindAcademy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/backgroundPrimary</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/backgroundPrimary</item>
+
+        <!-- Background and text colors -->
+        <item name="android:windowBackground">@color/backgroundPrimary</item>
+        <item name="android:textColor">@color/textPrimary</item>
+
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.ArvindAcademy" parent="Base.Theme.ArvindAcademy" />
+</resources>
